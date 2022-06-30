@@ -1,8 +1,8 @@
 Today is Thursday.
 
-#CS15L Lab2
+# CS15L Lab2
 > 
-##Trying Github
+## Trying Github
 ---
 >
 * github account
